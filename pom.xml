@@ -30,6 +30,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>consul-server</module>
-		<module>consul-client</module>
+		<module>consul-consumer</module>
 	</modules>
 </project>
